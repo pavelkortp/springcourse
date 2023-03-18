@@ -14,7 +14,7 @@
           <element id="module-output" name="alishevcourse" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="Maven: org.thymeleaf:thymeleaf-spring5:3.1.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.thymeleaf:thymeleaf-spring6:3.1.1.RELEASE" />
           <element id="library" level="project" name="Maven: org.thymeleaf:thymeleaf:3.1.1.RELEASE" />
           <element id="library" level="project" name="Maven: org.attoparser:attoparser:2.0.6.RELEASE" />
           <element id="library" level="project" name="Maven: org.unbescape:unbescape:1.1.6.RELEASE" />
